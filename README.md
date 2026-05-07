@@ -26,6 +26,5 @@ This repository contains all EDS practical assignments.
 ---
 
 ## 🎥 Video Link
-Add your project/demo video link here.
 
   [click Hear🔗](https://youtu.be/aYVs7apN3aM?si=HUCHoHFBO1K96JCK)
