@@ -18,5 +18,5 @@ Python Essentials 2
 SkillsBuild Completion Certificate
 
 Python File handling operation 
- 🔗video link
+ 🔗 YouTube video link
    https://youtu.be/aYVs7apN3aM?si=HUCHoHFBO1K96JCK
